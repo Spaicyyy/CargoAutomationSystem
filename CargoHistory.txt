@@ -1,0 +1,4 @@
+From: Moscow
+To:   London
+With Vehilce: Truck [61 K 1254]
+With estimated Arrival: 2025-12-19
